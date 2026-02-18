@@ -1,4 +1,3 @@
--- Create the 'DataWarehouse' database
 CREATE DATABASE DataWarehouse;
 GO
 
